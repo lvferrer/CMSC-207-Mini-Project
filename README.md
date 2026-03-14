@@ -15,3 +15,4 @@ This project is a personal portfolio website created using HTML, CSS, and JavaSc
 - Interactive hover effects
 
 ## Live Demo
+https://lvferrer.github.io/CMSC-207-Mini-Project/
